@@ -1,3 +1,1 @@
-cd /Users/darcyjepson/chakra-map-public
-git remote add origin https://github.com/Jakonabe/chakra-map.git
-git push -u origin main
+https://github.com/Jakonabe/chakra-map.git
